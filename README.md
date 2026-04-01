@@ -1,5 +1,6 @@
 # Network-Security-Analyzer
-A monitoring tool that integrates packet capture, protocol parsing, Kafka-based log ingestion, machine-learning anomaly detection, OpenSearch analytics, and a FastAPI-driven SOC interface.
+
+🛡️A monitoring tool that integrates packet capture, protocol parsing, Kafka-based log ingestion, machine-learning anomaly detection, OpenSearch analytics, and a FastAPI-driven SOC interface.
 # Objectives 🎯
 - **Project base:** Provide real‑time visibility for network traffic and protocol behavior
 - Detect anomalies, intrusions, and DoS attempts using both rule‑based and ML‑based methods
