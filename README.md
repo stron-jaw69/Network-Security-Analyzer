@@ -19,7 +19,7 @@ A monitoring tool that integrates packet capture, protocol parsing, Kafka-based 
 - **SOAR Automation:**
     - Automated firewall blocking
     - Alerting and incident creation
-    - Implement the playbook 
+    - Implement the playbook system
 
 
 # Technical Stack ⚙️
