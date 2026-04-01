@@ -11,6 +11,13 @@ A monitoring tool that integrates packet capture, protocol parsing, Kafka-based 
     - Raw packet capture (LAN/Wi‑Fi)
     - Protocol support: ARP, DNS, TCP, ICMP, IMAP, SMTP
     - Bandwidth, packet rate, port usage, IP statistics
+- **Detection Engine:**
+    - TCP handshake verification
+    - SYN flood / DoS heuristics
+    - Machine Learning anomaly detection (Isolation Forest)
+    - Suricata/Zeek log ingestion via Kafka
+
+
 
 # Technical Stack ⚙️
 - 
