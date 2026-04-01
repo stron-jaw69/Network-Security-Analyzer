@@ -16,7 +16,10 @@ A monitoring tool that integrates packet capture, protocol parsing, Kafka-based 
     - SYN flood / DoS heuristics
     - Machine Learning anomaly detection (Isolation Forest)
     - Suricata/Zeek log ingestion via Kafka
-
+- **SOAR Automation:**
+    - Automated firewall blocking
+    - Alerting and incident creation
+    - Implement the playbook 
 
 
 # Technical Stack ⚙️
