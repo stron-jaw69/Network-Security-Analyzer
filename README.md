@@ -27,6 +27,10 @@
  Layer | Technology 
 -------|-------------
 **Programming Language**| Python 3 (raw sockets -linux or scapy -windows)
+**Log Ingestion** | Kafka
+**API** | FastAPI
+**Storage** | OpenSearch
+**Machine learning** | , scikit-learn (Isolation Forest)
 
 # Getting Started 📦
 - 
