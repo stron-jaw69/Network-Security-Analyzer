@@ -31,7 +31,7 @@
 **API** | FastAPI
 **Storage** | OpenSearch
 **Machine learning** | numpy, scikit-learn (Isolation Forest)
-**Log **
+**Log Ingestion**
 
 # Getting Started 📦
 - 
