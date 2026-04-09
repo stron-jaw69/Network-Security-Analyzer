@@ -24,6 +24,9 @@
 
 
 # Technical Stack ⚙️
-- 
+ Layer | Technology 
+-------|-------------
+**Programming Language**| Python 3 (raw sockets -linux or scapy -windows)
+
 # Getting Started 📦
 - 
