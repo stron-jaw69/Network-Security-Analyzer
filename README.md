@@ -32,7 +32,7 @@
 **Storage** | OpenSearch
 **Machine learning** | numpy, scikit-learn (Isolation Forest)
 **Log Ingestion** | Kafka
-**Sen
+**Sensors** |
 
 # Getting Started 📦
 - 
