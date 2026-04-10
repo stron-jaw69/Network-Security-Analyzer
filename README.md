@@ -26,10 +26,10 @@
 # Technical Stack ⚙️
  Layer | Technology 
 -------|-------------
-**Programming Language**| Python 3 (raw sockets -linux or scapy -windows)
+**Programming Language**| Python 3, (raw sockets -linux or scapy -windows)
 **Log Ingestion** | Kafka
 **API** | FastAPI
-**Storage** | OpenSearch
+**Storage** | OpenSearch (event index and querrying)
 **Machine learning** | numpy, scikit-learn (Isolation Forest)
 **Log Ingestion** | Kafka
 **Sensors** |
