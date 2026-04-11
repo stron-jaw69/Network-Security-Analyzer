@@ -32,7 +32,7 @@
 **Storage** | OpenSearch (event index and querrying)
 **Machine learning** | numpy, scikit-learn (Isolation Forest)
 **Log Ingestion** | Kafka
-**Sensors** |
+**Sensors** | Suricate, 
 
 # Getting Started 📦
 - 
