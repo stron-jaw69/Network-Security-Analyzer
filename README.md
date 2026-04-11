@@ -35,4 +35,7 @@
 **Sensors** | Suricate, Zeek
 
 # Getting Started 📦
-- 
+### 1. **Clone the repository**
+- git clone https://github.com//Network-Security-Analyzer.git
+- cd Network_Analyzer
+
