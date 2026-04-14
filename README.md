@@ -41,6 +41,7 @@
 ### 2. **Create the virtual**
 - python -m venv venv
 - venv\Scripts\activate
-venv\Scripts\activate
+### 3. **Install **
+- pip install
 
 
