@@ -40,6 +40,7 @@
 - cd Network-Security-Analyzer
 ### 2.
 - python -m venv venv
+- venv\
 venv\Scripts\activate
 
 
