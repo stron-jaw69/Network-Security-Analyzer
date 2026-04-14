@@ -36,9 +36,10 @@
 
 # Getting Started 📦
 ### 1. **Clone the repository**
-- git clone https://github.com/stron/Network-Security-Analyzer.git
+- git clone https://github.com/stron-jaw69/Network-Security-Analyzer.git
 - cd Network-Security-Analyzer
 ### 2. **Create the virtual**
+**Windows**
 - python -m venv venv
 - venv\Scripts\activate
 ### 3. **Install **
