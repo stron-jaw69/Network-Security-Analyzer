@@ -36,6 +36,10 @@
 
 # Getting Started 📦
 ### 1. **Clone the repository**
-- git clone https://github.com//Network-Security-Analyzer.git
+- git clone https://github.com/stron/Network-Security-Analyzer.git
 - cd Network-Security-Analyzer
+### 2.
+- python -m venv venv
+venv\Scripts\activate
+
 
