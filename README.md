@@ -42,7 +42,7 @@
 - **Windows:**
     - python -m venv venv
     - venv\Scripts\activate
-- **Linux/ mac:**
+- **Linux/mac:**
     - python3 -m venv venv
     - source
 ### 3. **Install **
