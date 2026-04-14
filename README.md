@@ -40,8 +40,10 @@
 - cd Network-Security-Analyzer
 ### 2. **Create the virtual**
 - **Windows:**
-- python -m venv venv
-- venv\Scripts\activate
+    - python -m venv venv
+    - venv\Scripts\activate
+- **Linux/ mac:**
+    - 
 ### 3. **Install **
 - pip install
 
