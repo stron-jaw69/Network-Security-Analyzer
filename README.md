@@ -44,7 +44,7 @@
     - venv\Scripts\activate
 - **Linux/mac:**
     - python3 -m venv venv
-    - source venv
+    - source venv/bin
 ### 3. **Install **
 - pip install -r
 
