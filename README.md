@@ -46,6 +46,6 @@
     - python3 -m venv venv
     - source venv/bin/activate
 ### 3. **Install dependecies**
-- pip install -r requirement
+- pip install -r requirements.txt
 
 
