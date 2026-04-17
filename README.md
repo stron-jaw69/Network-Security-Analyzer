@@ -49,4 +49,4 @@
 - pip install -r requirements.txt
 ### 4. **Windows PreReq**
 - install Npcap
-- enable (winPcap API-)
+- enable (winPcap API-compatible mode)
