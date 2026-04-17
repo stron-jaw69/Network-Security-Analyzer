@@ -47,5 +47,6 @@
     - source venv/bin/activate
 ### 3. **Install dependecies**
 - pip install -r requirements.txt
-### 4. **Windows Pre**
+### 4. **Windows PreReq**
+- install Npcap
 
