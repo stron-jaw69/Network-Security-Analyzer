@@ -49,4 +49,4 @@
 - pip install -r requirements.txt
 ### 4. **Windows PreReq**
 - install Npcap
-- enable (winPcap API-compatible mode)
+- enable (winPcap API-compatible mode and RAW 802.11)
