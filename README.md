@@ -51,4 +51,4 @@
 - install Npcap
 - enable (winPcap API-compatible mode and RAW 802.11)
 ### 5. **Run FASTAPI servers**
-- uvicorn 
+- uvicorn api.main
