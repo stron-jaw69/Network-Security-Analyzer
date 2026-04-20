@@ -54,4 +54,7 @@
 - uvicorn api.main:app --reload
 - open api doc for testing: http://127.0.0.1:8000
 - access api docs: http://127.0.0.1:8000/docs
-- OR: 
+- OR: http://127.0.0.1:8000/
+### 6. **Test Endpoints**
+- SOAR:
+- Bandwidth: 
