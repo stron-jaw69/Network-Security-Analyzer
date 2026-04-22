@@ -59,5 +59,6 @@
 - SOAR: POST /soar/run
 - Bandwidth: GET/ stats/bandwidth
 ### 7. **Test Pack Captures**
-- **Windows :**
+- **Windows (npcap):**
+    - python capture
 - **Linus:**
