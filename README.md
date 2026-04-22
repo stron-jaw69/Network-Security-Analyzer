@@ -56,6 +56,6 @@
 - access api docs: http://127.0.0.1:8000/docs
 - OR: http://127.0.0.1:8000/redoc
 ### 6. **Test Endpoints**
-- SOAR:
-- Bandwidth: 
+- SOAR: POST /soar
+- Bandwidth: GET/ stats
 ### 7. **Test Pack Captures**
