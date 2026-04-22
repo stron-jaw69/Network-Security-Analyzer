@@ -62,4 +62,4 @@
 - **Windows (npcap):**
     - python capture/raw_sniffer
 - **Linus:**
-    - sudo
+    - sudo python
