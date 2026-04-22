@@ -60,5 +60,6 @@
 - Bandwidth: GET/ stats/bandwidth
 ### 7. **Test Pack Captures**
 - **Windows (npcap):**
-    - python capture
+    - python capture/raw_sniffer
 - **Linus:**
+    - sudo
