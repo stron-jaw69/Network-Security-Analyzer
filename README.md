@@ -64,4 +64,4 @@
 - **Linux:**
     - sudo python capture/raw_sniffer.py
 ### 8. Anomaly Detection
-- Execute the first set of packets
+- Execute the first set of packets: python anomaly
