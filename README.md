@@ -63,6 +63,6 @@
     - python capture/raw_sniffer.py
 - **Linux:**
     - sudo python capture/raw_sniffer.py
-### 8. Anomaly Detection
+### 8. **Anomaly Detection**
 - Execute the first set of packets: python anomaly.py
-### 9.
+### 9. **Test Kafka with Zeek/suricata**
