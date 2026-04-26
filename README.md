@@ -68,4 +68,4 @@
 ### 9. **Test Kafka with Zeek/suricata**
 - python zeek_suricata.py *
 ### 10. **OpenSearch indexing**
-- bash: http://localhost:
+- bash: http://localhost:9200
