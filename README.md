@@ -67,3 +67,4 @@
 - Execute the first set of packets: python anomaly.py
 ### 9. **Test Kafka with Zeek/suricata**
 - python zeek_suricata.py *
+### 10. 
