@@ -38,7 +38,7 @@
 ### 1. **Clone the repository**
 - git clone https://github.com/stron-jaw69/Network-Security-Analyzer.git
 - cd Network-Security-Analyzer
-### 2. **Create the virtual environm**
+### 2. **Create the virtual environmen**
 - **Windows:**
     - python -m venv venv
     - venv\Scripts\activate
