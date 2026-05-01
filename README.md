@@ -52,7 +52,7 @@
 - enable (winPcap API-compatible mode and RAW 802.11)
 ### 5. **Run FASTAPI servers**
 - uvicorn api.main:app --reload
-- open api doc for testing: http://127.0.0.1:8000
+- open api doc for testing, view stats: http://127.0.0.1:8000
 - access api docs: http://127.0.0.1:8000/docs
 - OR: http://127.0.0.1:8000/redoc
 ### 6. **Test Endpoints**
