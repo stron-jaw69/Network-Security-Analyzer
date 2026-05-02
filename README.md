@@ -55,7 +55,7 @@
 - open api doc for testing, view stats: http://127.0.0.1:8000
 - access api docs: http://127.0.0.1:8000/docs
 - OR: http://127.0.0.1:8000/redoc
-- wireless dashboard: http://127.0.0.1:8000/wifi/dashb
+- wireless dashboard: http://127.0.0.1:8000/wifi/dashboard
 ### 6. **Test Endpoints**
 - SOAR: POST /soar/run
 - Bandwidth: GET/ stats/bandwidth
