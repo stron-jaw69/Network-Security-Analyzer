@@ -70,4 +70,4 @@
 - python zeek_suricata.py *
 ### 10. **OpenSearch indexing**
 - bash: http://localhost:9200
-- curl -X GET "local"
+- curl -X GET "localhost:"
