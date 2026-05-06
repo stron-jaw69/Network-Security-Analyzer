@@ -58,7 +58,7 @@
 - wireless dashboard: http://127.0.0.1:8000/wifi/dashboard
 ### 6. **Test Endpoints**
 - SOAR: POST /soar/run
-      - curl -X
+      - curl -X POST htt
 - Bandwidth: GET/ stats/bandwidth
 ### 7. **Test Pack Captures**
 - **Windows (npcap):**
