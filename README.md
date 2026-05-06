@@ -59,7 +59,7 @@
 ### 6. **Test Endpoints**
 - SOAR: POST /soar/run
       - curl -X POST http://127.0.0.1:8000/soar/run \
-            - H "content-Type : "
+            - H "Content-Type : application"
 - Bandwidth: GET/ stats/bandwidth
 ### 7. **Test Pack Captures**
 - **Windows (npcap):**
