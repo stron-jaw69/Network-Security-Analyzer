@@ -60,7 +60,7 @@
 - SOAR: POST /soar/run
       - curl -X POST http://127.0.0.1:8000/soar/run \
             - H "Content-Type : application/jason" \
-            - d '{"event": "test_alert", "severe"}'
+            - d '{"event": "test_alert", "severe": low}'
 - Bandwidth: GET/ stats/bandwidth
 ### 7. **Test Pack Captures**
 - **Windows (npcap):**
