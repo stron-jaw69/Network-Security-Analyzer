@@ -62,7 +62,7 @@
             - H "Content-Type : application/jason" \
             - d '{"event": "wifi_probe_flood"}' 
 - Bandwidth: GET/ stats/bandwidth
-- Alerts : curl -X POST http://127.
+- Alerts : curl -X POST http://127.0.0.1:8000/alerts \
 ### 7. **Test Pack Captures**
 - **Windows (npcap):**
     - python capture/raw_sniffer.py
