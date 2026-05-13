@@ -63,7 +63,8 @@
             - d '{"event": "wifi_probe_flood"}' 
 - Bandwidth: GET/ stats/bandwidth
 - Alerts : curl -X POST http://127.0.0.1:8000/alerts \
-                - H "Content-Type: application"
+                - H "Content-Type: application/json" \
+                - d '{}'
 ### 7. **Test Pack Captures**
 - **Windows (npcap):**
     - python capture/raw_sniffer.py
