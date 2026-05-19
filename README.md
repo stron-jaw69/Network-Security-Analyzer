@@ -62,7 +62,7 @@
             - H "Content-Type : application/jason" \
             - d '{"event": "wifi_probe_flood"}' 
 - Bandwidth: GET/ stats/bandwidth
-- Stats
+- Stats: curl -
 - Alerts : curl -X POST http://127.0.0.1:8000/alerts \
                 - H "Content-Type: application/json" \
                 - d '{"event": "wifi_probe_flood"}'
