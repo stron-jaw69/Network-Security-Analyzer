@@ -41,7 +41,7 @@
 ### 2. **Create the virtual environment**
 - **Windows:**
     - python -m venv venv
-    - venv\Scripts\activate
+    - venv\Scripts\activate.ps1
 - **Linux/mac:**
     - python3 -m venv venv
     - source venv/bin/activate
