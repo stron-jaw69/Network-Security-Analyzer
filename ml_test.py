@@ -1,6 +1,6 @@
+#instantiate the anomaly detector for testing
 from processing.ml_anomaly import MLAnomalyDetector
 
-#instantiate the anomaly detector for testing
 detector = MLAnomalyDetector()
 
 for i in range(600):
