@@ -78,4 +78,4 @@
 ### 10. **OpenSearch indexing**
 - bash: http://localhost:9200
 - curl -X GET "localhost:9200/_cat/indices?v"
-- access api docs: http://127.0.0.1
+- access api docs: http://127.0.0.1:8000/do
