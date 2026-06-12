@@ -14,7 +14,7 @@ class WiFiAnomalyDetector:
         if not wifi:
             return None
         # detect probe floods
-        if wifi["addr1"] == "ff:ff:ff:ff:ff:ff":  # broadcast probe
+        if wifi["addr1"] == "ff:ff:ff:ff:ff:ff":  # broadcast
             src = wifi["addr2"]
             self.probes[src] += 1
 
